@@ -1,43 +1,31 @@
 Get AntSword
 ---
 
-> Requirement: AntSword >=v2.0.0-beta
+> Requirement: AntSword >=v2.0.0
 
-##### 1.Get source code of AntSword
-
-```
-$ git clone https://github.com/AntSwordProject/AntSword.git
-```
-
-Or click [here](https://github.com/AntSwordProject/AntSword/archive/master.zip) to get the latest code.
-
-Of course, you also can go to [release page](https://github.com/AntSwordProject/AntSword/releases) to get latest source code.
-
-> Notice:
->
-> The source code of AntSword can only get from [Github](https://github.com/AntSwordProject/AntSword). In order to get rid of backdoors in the source code, the official team `STRONGLY` suggests get source code from the official repository.
-
-##### 2.Download AntSword Loader.
+##### 1.Download AntSword Loader.
 
 Starting from v2.0.0-beta, we introduce the concepts of `Loader`. Users or developers only need to download the AntSword Loader according to your OS. Everyone can directly edit/execute/debug the latest source code for developers and for users without extra environment.
 
 Please select specific loader according to your loader:
 
-* [AntSword-darwin-x64.zip]()
-* [AntSword-linux-ia32.zip]()
-* [AntSword-linux-x64.zip]()
-* [AntSword-windows-ia32.zip]()
-* [AntSword-windows-x64.zip]()
+Platform | Download | MD5
+:--|:--|:--
+OSX | [AntSword-darwin-v2.0.0-x64.dmg](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-darwin-v2.0.0-x64.dmg) | 6a6e4e00dcc00993c08a0ceeba81f09d
+Linux x64 | [AntSword-linux-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-linux-v2.0.0-x64.zip) | 4f679dcf1b47c2b4af7456db21292890
+Windows x64 | [AntSword-windows-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-windows-v2.0.0-x64.zip) | 309e853b44302f67fb9ec26a19db6c59
 
-##### 3.Load Source
+##### 2.Get source code & Load Source
 
 When you firstly open loader, the interface looks like this:
 
 ![firt time to open loader][img_get_antsword_1]
 
-Click 「`Initialize`」, select the directory of source code in 「`step 1`」. After initializing, reopen the AntSword loader. Then you should be able to see the main interface of AntSword.
+Click 「`Initialize`」, select an empty directory as AntSword Work Directory. After that, reopen the AntSword loader. Then you should be able to see the main interface of AntSword.
 
 ![Main Interface][img_get_antsword_2]
+
+Of course, if you already have the AntSword source code before, you can select this directory as the working directory when you select the working directory in this step.
 
 > Are you still in the installation? I'm sorry to tell you: Everything is done. :>
 

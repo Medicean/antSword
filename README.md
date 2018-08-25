@@ -4,7 +4,7 @@
 
 [项目地址](https://github.com/AntSwordProject/AntSword)
 
-[文档在线阅读](https://medicean.gitbooks.io/antsword/content/)
+[文档在线阅读](https://doc.u0u.us/zh-hans/)
 
 ---
 
@@ -12,5 +12,5 @@
 
 [Project](https://github.com/AntSwordProject/AntSword)
 
-[Read online manual](https://medicean.gitbooks.io/antsword/content/)
+[Read online manual](https://doc.u0u.us/en/)
 

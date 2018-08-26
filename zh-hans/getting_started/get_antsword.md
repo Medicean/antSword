@@ -7,13 +7,7 @@
 
 从 v2.0.0-beta 版本开始，我们引入了加载器这一概念。用户/开发者只需要下载对应平台的加载器，无需安装额外的环境，即可对源代码进行编辑/执行/调试等操作。可直接运行当前最新的开发版和发行版源代码。
 
-请根据当前使用的操作系统，选择加载器：
-
-操作系统 | 下载地址 | MD5
-:--|:--|:--
-OSX | [AntSword-v2.0.0-darwin-x64.dmg](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-darwin-x64.dmg) | 6a6e4e00dcc00993c08a0ceeba81f09d
-Linux 64位 | [AntSword-v2.0.0-linux-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-linux-x64.zip) | 4f679dcf1b47c2b4af7456db21292890
-Windows 64位 | [AntSword-v2.0.0-windows-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-windows-x64.zip) | 309e853b44302f67fb9ec26a19db6c59
+[点此获取加载器](https://github.com/AntSwordProject/AntSword-Loader)
 
 **注意**：官方加载器仅在 `https://github.com/AntSwordProject/AntSword-Loader` 发布，不会在网盘等其它网站发布，下载后请第一时间校验 md5 值
 

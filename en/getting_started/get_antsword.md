@@ -9,11 +9,7 @@ Starting from v2.0.0-beta, we introduce the concepts of `Loader`. Users or devel
 
 Please select specific loader according to your loader:
 
-Platform | Download | MD5
-:--|:--|:--
-OSX | [AntSword-darwin-v2.0.0-x64.dmg](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-darwin-x64.dmg) | 6a6e4e00dcc00993c08a0ceeba81f09d
-Linux x64 | [AntSword-linux-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-linux-x64.zip) | 4f679dcf1b47c2b4af7456db21292890
-Windows x64 | [AntSword-windows-v2.0.0-x64.zip](https://github.com/AntSwordProject/AntSword-Loader/raw/2.0.0/AntSword-v2.0.0-windows-x64.zip) | 309e853b44302f67fb9ec26a19db6c59
+[Click here get AntSword Loader](https://github.com/AntSwordProject/AntSword-Loader)
 
 ##### 2.Get source code & Load Source
 

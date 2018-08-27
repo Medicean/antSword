@@ -33,17 +33,17 @@
 
 ##### A: 遇到这种问题，按照下面步骤手动进行：
 
-1. 手动 clone antsword 源代码
+1. 手动 clone antsword 源代码, 或者直接点[这里下载源代码](https://github.com/AntSwordProject/AntSword/archive/master.zip)并解压
 
-```
-git clone https://github.com/AntSwordProject/AntSword.git
-```
+ ```
+$ git clone https://github.com/AntSwordProject/AntSword.git
+ ```
 
 2. 打开加载器，选择源代码所在目录(简单理解为 app.js 所在目录)。
 
-例如app.js路径为：`D:\\test\antsword\app.js`，那么选择的目录主是 `D:\\test\antsword\`
+ 例如app.js路径为：`D:\\test\antsword\app.js`，那么选择的目录主是 `D:\\test\antsword\`
 
-**特别提醒，不要中文路径**
+ **特别提醒，不要中文路径**
 
 
 [img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg

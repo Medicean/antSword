@@ -26,5 +26,25 @@
 
 > 你是否还沉浸在愉悦的安装过程中？很遗憾，一切皆已完成。：）
 
+
+### 可能遇到的问题
+
+##### Q: 下载或者解压出错
+
+##### A: 遇到这种问题，按照下面步骤手动进行：
+
+1. 手动 clone antsword 源代码
+
+```
+git clone https://github.com/AntSwordProject/AntSword.git
+```
+
+2. 打开加载器，选择源代码所在目录(简单理解为 app.js 所在目录)。
+
+例如app.js路径为：`D:\\test\antsword\app.js`，那么选择的目录主是 `D:\\test\antsword\`
+
+**特别提醒，不要中文路径**
+
+
 [img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
 [img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg

@@ -50,5 +50,5 @@ $ git clone https://github.com/AntSwordProject/AntSword.git
 ##### A: 参考 [AntSword-Loader #3](https://github.com/AntSwordProject/AntSword-Loader/issues/3)
 
 
-[img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
-[img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg
+[img_get_antsword_1]: http://as.xuanbo.cc/doc/getting_started/get_antsword_1.jpg
+[img_get_antsword_2]: http://as.xuanbo.cc/doc/getting_started/get_antsword_2.jpg

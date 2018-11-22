@@ -52,5 +52,5 @@
  首先选中要删除的编码器(可选择多个)，然后点击上方工具栏的「删除」按钮。
 
 
-[encoder_edit_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/settings/encoder_edit_1.png
-[encoder_edit_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/settings/encoder_edit_2.png
+[encoder_edit_1]: http://as.xuanbo.cc/doc/settings/encoder_edit_1.png
+[encoder_edit_2]: http://as.xuanbo.cc/doc/settings/encoder_edit_2.png

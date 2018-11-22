@@ -11,4 +11,4 @@ Uninstall Plugins
 3. Click red confirm button.
 
 
-[img_uninstall_plugin_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/uninstall_plugin_1.jpg
+[img_uninstall_plugin_1]: http://as.xuanbo.cc/doc/plugin_store/uninstall_plugin_1.jpg

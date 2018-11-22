@@ -184,7 +184,7 @@ module.exports = Plugin;
 
 > 关于调试的技巧将在下一小节中讲
 
-[img_create_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_1.png
-[img_create_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_2.png
-[img_create_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_3.png
-[img_create_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/create_4.png
+[img_create_1]: http://as.xuanbo.cc/doc/plugin_dev/create_1.png
+[img_create_2]: http://as.xuanbo.cc/doc/plugin_dev/create_2.png
+[img_create_3]: http://as.xuanbo.cc/doc/plugin_dev/create_3.png
+[img_create_4]: http://as.xuanbo.cc/doc/plugin_dev/create_4.png

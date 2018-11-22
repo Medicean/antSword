@@ -46,7 +46,7 @@ After being loaded, you need to customize some arguments manually, just like Met
 ![][img_load_plugin_4]
 
 
-[img_load_plugin_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugins/load_plugin_1.jpg
-[img_load_plugin_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugins/load_plugin_2.jpg
-[img_load_plugin_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugins/load_plugin_3.jpg
-[img_load_plugin_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugins/load_plugin_4.jpg
+[img_load_plugin_1]: http://as.xuanbo.cc/doc/plugins/load_plugin_1.jpg
+[img_load_plugin_2]: http://as.xuanbo.cc/doc/plugins/load_plugin_2.jpg
+[img_load_plugin_3]: http://as.xuanbo.cc/doc/plugins/load_plugin_3.jpg
+[img_load_plugin_4]: http://as.xuanbo.cc/doc/plugins/load_plugin_4.jpg

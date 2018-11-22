@@ -25,7 +25,7 @@
 
 ![][img_category_4]
 
-[img_category_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/category_1.jpg
-[img_category_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/category_2.jpg
-[img_category_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/category_3.jpg
-[img_category_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/category_4.jpg
+[img_category_1]: http://as.xuanbo.cc/doc/shell_manager/category_1.jpg
+[img_category_2]: http://as.xuanbo.cc/doc/shell_manager/category_2.jpg
+[img_category_3]: http://as.xuanbo.cc/doc/shell_manager/category_3.jpg
+[img_category_4]: http://as.xuanbo.cc/doc/shell_manager/category_4.jpg

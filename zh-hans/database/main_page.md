@@ -19,4 +19,4 @@
 
  SQL 语句执行结果显示，如果执行的是`INSERT`、`DELETE`等无结果集的语句，则显示执行结果（`True`或者`False`）
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/database/main_page_1.png
+[img_main_page_1]: http://as.xuanbo.cc/doc/database/main_page_1.png

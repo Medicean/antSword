@@ -23,4 +23,4 @@ The directory of plugins: `antSword/antData/plugins/`
 
 3. Open the plugin store. If you can see the plugin in local, this means `SUCCESS`.
 
-[img_get_plugin_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/get_plugin_1.jpg
+[img_get_plugin_1]: http://as.xuanbo.cc/doc/plugin_store/get_plugin_1.jpg

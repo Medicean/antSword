@@ -22,4 +22,4 @@
 4. 第7､8步为一次HTTP请求与结果展示，如果该插件需要多次请求，此处则可循环直到结束
 5. 插件与核心框架通信，可以是调用发包模块向WebShell发送模版代码也可以是对Shell进行操作，例如`CopyShell`插件
 
-[img_introduce_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/introduce_1.png
+[img_introduce_1]: http://as.xuanbo.cc/doc/plugin_dev/introduce_1.png

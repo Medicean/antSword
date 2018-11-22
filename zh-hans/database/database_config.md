@@ -85,6 +85,6 @@ jdbc:mysql://localhost/test?user=root&password=123456
 
 可见 CUSTOM 类型 Shell 在连接时的高度自由，开发者可根据个人喜好，随意定制连接字符串
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/database/database_config_1.png
-[img_main_page_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/database/database_config_2.png
-[img_main_page_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/database/database_config_3.png
+[img_main_page_1]: http://as.xuanbo.cc/doc/database/database_config_1.png
+[img_main_page_2]: http://as.xuanbo.cc/doc/database/database_config_2.png
+[img_main_page_3]: http://as.xuanbo.cc/doc/database/database_config_3.png

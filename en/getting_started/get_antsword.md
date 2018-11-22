@@ -25,5 +25,5 @@ Of course, if you already have the AntSword source code before, you can select t
 
 > Are you still in the installation? I'm sorry to tell you: Everything is done. :>
 
-[img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
-[img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg
+[img_get_antsword_1]: http://as.xuanbo.cc/doc/getting_started/get_antsword_1.jpg
+[img_get_antsword_2]: http://as.xuanbo.cc/doc/getting_started/get_antsword_2.jpg

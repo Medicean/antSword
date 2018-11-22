@@ -37,8 +37,8 @@ Then, click `click` button. You should be able to see the webshell you've just a
 
 > All is that simple! ：）
 
-[img_first_shell_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/first_shell_1.jpg
-[img_first_shell_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/first_shell_2.jpg
-[img_first_shell_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/first_shell_3.jpg
-[img_first_shell_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/first_shell_4.jpg
-[img_first_shell_5]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/first_shell_5.jpg
+[img_first_shell_1]: http://as.xuanbo.cc/doc/getting_started/first_shell_1.jpg
+[img_first_shell_2]: http://as.xuanbo.cc/doc/getting_started/first_shell_2.jpg
+[img_first_shell_3]: http://as.xuanbo.cc/doc/getting_started/first_shell_3.jpg
+[img_first_shell_4]: http://as.xuanbo.cc/doc/getting_started/first_shell_4.jpg
+[img_first_shell_5]: http://as.xuanbo.cc/doc/getting_started/first_shell_5.jpg

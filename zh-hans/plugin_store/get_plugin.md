@@ -22,4 +22,4 @@
 
 3. 打开 AntSword 插件市场，若该插件出现在本地仓库中，代表安装成功
 
-[img_get_plugin_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/get_plugin_1.jpg
+[img_get_plugin_1]: http://as.xuanbo.cc/doc/plugin_store/get_plugin_1.jpg

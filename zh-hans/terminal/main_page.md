@@ -16,5 +16,5 @@
 包括命令提示符（PS1）和命令两部分，PS1前半部分显示当前用户，后半部分显示当前所在路径。输入命令，并按下「Enter」键，会输出命令执行结果。
 
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/terminal/main_page_1.png
+[img_main_page_1]: http://as.xuanbo.cc/doc/terminal/main_page_1.png
 

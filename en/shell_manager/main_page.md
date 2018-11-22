@@ -68,4 +68,4 @@ Please see details in [Shell Management - Categories Management](./category.md)
  Clear all local cache.
 
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/main_page_1.jpg
+[img_main_page_1]: http://as.xuanbo.cc/doc/shell_manager/main_page_1.jpg

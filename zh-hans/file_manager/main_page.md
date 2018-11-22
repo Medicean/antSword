@@ -27,4 +27,4 @@
 
 显示任务列表作业进度，一般用于进行文件下载、文件上传等操作，默认折叠
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/file_manager/main_page_1.png
+[img_main_page_1]: http://as.xuanbo.cc/doc/file_manager/main_page_1.png

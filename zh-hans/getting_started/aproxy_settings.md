@@ -40,7 +40,7 @@ AntSword 自 v.1.1.2 版本起内置了代理功能，默认「不使用代理�
 
 > 更多用法，靠你想象
 
-[img_aproxy_settings_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_1.jpg
-[img_aproxy_settings_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_2.jpg
-[img_aproxy_settings_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_3.jpg
-[img_aproxy_settings_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/aproxy_settings_4.jpg
+[img_aproxy_settings_1]: http://as.xuanbo.cc/doc/getting_started/aproxy_settings_1.jpg
+[img_aproxy_settings_2]: http://as.xuanbo.cc/doc/getting_started/aproxy_settings_2.jpg
+[img_aproxy_settings_3]: http://as.xuanbo.cc/doc/getting_started/aproxy_settings_3.jpg
+[img_aproxy_settings_4]: http://as.xuanbo.cc/doc/getting_started/aproxy_settings_4.jpg

@@ -132,6 +132,6 @@ Shell 配置
 
  虚拟终端默认使用的 shell 路径为 `/bin/sh` 和 `cmd`，根据实际情况设置，推荐使用绝对路径。
 
-[img_shell_config_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/shell_config_1.jpg
-[img_shell_config_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/shell_config_2.jpg
-[img_shell_config_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/shell_manager/shell_config_3.jpg
+[img_shell_config_1]: http://as.xuanbo.cc/doc/shell_manager/shell_config_1.jpg
+[img_shell_config_2]: http://as.xuanbo.cc/doc/shell_manager/shell_config_2.jpg
+[img_shell_config_3]: http://as.xuanbo.cc/doc/shell_manager/shell_config_3.jpg

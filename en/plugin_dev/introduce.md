@@ -22,4 +22,4 @@ Comments：
 4. `Step 7` and `step 8` is about HTTP request and response. If you do it all the time if you have to.
 5. The communication between the core and plugins could be template code, such as `phpinfo`, or operation on webshells(such as `CopyShell`)
 
-[img_introduce_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_dev/introduce_1.png
+[img_introduce_1]: http://as.xuanbo.cc/doc/plugin_dev/introduce_1.png

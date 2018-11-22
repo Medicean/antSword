@@ -13,4 +13,4 @@
 
 开启该选项后，需要手动设置开发仓库所在目录，AntSword会在加载时自动搜索该目录下的插件。
 
-[img_plugin_store_settings_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/plugin_store_settings_1.jpg
+[img_plugin_store_settings_1]: http://as.xuanbo.cc/doc/plugin_store/plugin_store_settings_1.jpg

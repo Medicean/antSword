@@ -23,7 +23,7 @@ And then click「`Save`」button.
 
 > It's done：）
 
-[img_language_settings_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/language_settings_1.jpg
-[img_language_settings_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/language_settings_2.jpg
-[img_language_settings_3]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/language_settings_3.jpg
-[img_language_settings_4]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/language_settings_4.jpg
+[img_language_settings_1]: http://as.xuanbo.cc/doc/getting_started/language_settings_1.jpg
+[img_language_settings_2]: http://as.xuanbo.cc/doc/getting_started/language_settings_2.jpg
+[img_language_settings_3]: http://as.xuanbo.cc/doc/getting_started/language_settings_3.jpg
+[img_language_settings_4]: http://as.xuanbo.cc/doc/getting_started/language_settings_4.jpg

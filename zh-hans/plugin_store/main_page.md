@@ -33,5 +33,5 @@
 
 下面我们来详细了解一下具体功能。
 
-[img_main_page_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/main_page_1.jpg
-[img_main_page_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/plugin_store/main_page_2.jpg
+[img_main_page_1]: http://as.xuanbo.cc/doc/plugin_store/main_page_1.jpg
+[img_main_page_2]: http://as.xuanbo.cc/doc/plugin_store/main_page_2.jpg

@@ -87,4 +87,4 @@
 
  > Tips: 无法通过此方式修改文件的 Change Time
 
-[previewfile]: http://7xtigg.com1.z0.glb.clouddn.com/doc/file_manager/previewfile.png
+[previewfile]: http://as.xuanbo.cc/doc/file_manager/previewfile.png

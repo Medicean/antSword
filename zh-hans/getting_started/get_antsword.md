@@ -45,6 +45,10 @@ $ git clone https://github.com/AntSwordProject/AntSword.git
 
  **特别提醒，不要中文路径**
 
+##### Q: Kali Linux 下 `Segmentation fault`
+
+##### A: 参考 [AntSword-Loader #3](https://github.com/AntSwordProject/AntSword-Loader/issues/3)
+
 
 [img_get_antsword_1]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_1.jpg
 [img_get_antsword_2]: http://7xtigg.com1.z0.glb.clouddn.com/doc/getting_started/get_antsword_2.jpg

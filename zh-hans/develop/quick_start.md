@@ -12,4 +12,4 @@
 * [Layer.js](http://www.layui.com/doc/modules/layer.html)
 * [semantic-ui](http://www.semantic-ui.cn/)
 
-如果在开发过程遇到什么问题，欢迎加入中国蚁剑交流QQ群：`130993112`或直接在Github提交issue
+如果在开发过程遇到什么问题，欢迎加入[AntSword Project Discord在线交流服务器](https://discord.gg/Uzh5nUf)或直接在Github提交issue
